@@ -1,7 +1,7 @@
 {
-  "name": "trillo",
+  "name": "Hotel booking website template",
   "version": "1.0.0",
-  "description": "Trillo flexbox project",
+  "description": "A hotel booking website template using css flexbox",
   "main": "index.js",
   "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.comp.css",
