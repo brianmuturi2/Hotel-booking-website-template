@@ -22,8 +22,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/brianmuturi2/Node-natours">
-    <img src="public/img/favicon.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/brianmuturi2/Hotel-booking-website-template">
+    <img src="img/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Hotel booking website template</h3>
