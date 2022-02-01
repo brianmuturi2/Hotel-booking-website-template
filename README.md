@@ -26,10 +26,10 @@
     <img src="public/img/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Tours Website Rest API</h3>
+<h3 align="center">Hotel booking website template</h3>
 
   <p align="center">
-    A node js restful API and server side rendered tours website.
+    A landing page template for booking a hotel.
     <br />
     <!--
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
@@ -76,7 +76,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-A tours website rest api and server side rendering using pug templates
+A landing page for booking hotel
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -84,11 +84,8 @@ A tours website rest api and server side rendering using pug templates
 
 ### Built With
 
-* [Node JS](https://nodejs.org/en/)
-* [Express JS](https://expressjs.com/)
-* [Mongo DB](https://www.mongodb.com/)
-* [Pug templates](https://pugjs.org/api/getting-started.html)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [HTML](https://www.w3schools.com/html/default.asp)
+* [CSS](https://www.w3schools.com/css/default.asp)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -110,16 +107,17 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/brianmuturi2/Node-natours.git
+   git clone https://github.com/brianmuturi2/Hotel-booking-website-template.git
    ```
 2. Install NPM packages
    ```sh
    npm install
    ```
-3. Spin up development server
+3. Compile sass
    ```sh
-   npm start
+   npm run compile:sass
    ```
+4. Run index.html   
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -128,12 +126,11 @@ This is an example of how to list things you need to use the software and how to
 
 The following are the features implemented in the application.
 
-* Rest API with filtering
-* Mongo DB database for crud operations
-* Authentication with JWT
-* Authorization (user roles)
-* Sending emails with mailtrap and sendgrid
-*  Server side website rendering with pug (still in progress)
+* Sass variables & imports
+* Media queries
+* Scss
+* Flexbox layout
+* Sprite svg image
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
